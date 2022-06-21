@@ -1,2 +1,2 @@
 # jiratest
-Jira ile sğreç yönetimi
+Jira ile süreç yönetimi
